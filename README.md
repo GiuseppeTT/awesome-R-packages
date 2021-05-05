@@ -50,5 +50,5 @@
 
 ### Others
 - {fs} ([site](https://fs.r-lib.org) / [GitHub](https://github.com/r-lib/fs)): File system.
-- {memmoise} (no site / [GitHub](https://github.com/r-lib/memoise/)): Cache.
+- {memmoise} ([site](https://memoise.r-lib.org) / [GitHub](https://github.com/r-lib/memoise/)): Cache.
 - {slider} ([site](https://davisvaughan.github.io/slider/) / [GitHub](https://github.com/DavisVaughan/slider/)): Sliding window {purrr}.
