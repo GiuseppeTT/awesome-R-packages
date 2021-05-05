@@ -21,11 +21,11 @@
 - {rmarkdown} ([site](https://rmarkdown.rstudio.com) / [GitHub](https://github.com/rstudio/rmarkdown)): The base of modern R literate programming.
 - {tinytex} ([site](https://yihui.org/tinytex/) / [GitHub](https://github.com/yihui/tinytex)): LaTeX.
 - {bookdown} ([site](https://bookdown.org) / [GitHub](https://github.com/rstudio/bookdown)): Books.
-- {thesisdown} (no site / [GitHub](https://github.com/ismayc/thesisdown)): Thesis.
-- {rticles} (no site / [GitHub](https://github.com/rstudio/rticles)): Articles.
+- {thesisdown} ([site](https://ismayc.github.io/thesisdown/) / [GitHub](https://github.com/ismayc/thesisdown)): Thesis.
+- {rticles} ([site](https://bookdown.org/yihui/rmarkdown/journals.html) / [GitHub](https://github.com/rstudio/rticles)): Articles.
 - {distill} ([site](https://rstudio.github.io/distill/) / [GitHub](https://github.com/rstudio/distill)): Web articles.
-- {xarigan} (no site / [GitHub](https://github.com/yihui/xaringan)): Web slides.
-- {pagedown} (no site / [GitHub](https://github.com/rstudio/pagedown)): Paged reports, posters, CVs, cards, letters, etc.
+- {xarigan} ([site](https://slides.yihui.org/xaringan/) / [GitHub](https://github.com/yihui/xaringan)): Web slides.
+- {pagedown} ([site](https://pagedown.rbind.io) / [GitHub](https://github.com/rstudio/pagedown)): Paged reports, posters, CVs, cards, letters, etc.
 
 ### Dashboard
 - {shiny} ([site](https://shiny.rstudio.com) / [GitHub](https://github.com/rstudio/shiny)): The base of modern R web applications.
