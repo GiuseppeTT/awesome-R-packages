@@ -53,3 +53,5 @@
 - {fs} ([site](https://fs.r-lib.org) / [GitHub](https://github.com/r-lib/fs)): File system.
 - {memmoise} ([site](https://memoise.r-lib.org) / [GitHub](https://github.com/r-lib/memoise)): Cache.
 - {slider} ([site](https://davisvaughan.github.io/slider/) / [GitHub](https://github.com/DavisVaughan/slider)): Sliding window {purrr}.
+- {clock} ([site](https://clock.r-lib.org/) / [GitHub](https://github.com/r-lib/clock)): The future of {lubridate}?
+
