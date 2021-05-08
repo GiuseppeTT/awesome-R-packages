@@ -30,6 +30,7 @@
 ### Dashboard
 - {shiny} ([site](https://shiny.rstudio.com) / [GitHub](https://github.com/rstudio/shiny)): The base of modern R web applications.
 - {shinydashboard} ([site](https://rstudio.github.io/shinydashboard/) / [GitHub](https://github.com/rstudio/shinydashboard)): Dashboards.
+- {bs4Dash} ([site](https://rinterface.github.io/bs4Dash/) / [GitHub](https://github.com/RinteRface/bs4Dash)): {shinydashboard}, but with bootstrap 4 and AdminLTE 3.
 - {flexdashboard} ([site](https://rmarkdown.rstudio.com/flexdashboard/) / [GitHub](https://github.com/rstudio/flexdashboard)): Dashboards using RMarkdown. Great for static dashboards with {htmlwidgets} and {crosstalk}.
 - {bslib} ([site](https://rstudio.github.io/bslib/) / [GitHub](https://github.com/rstudio/shiny)): Bootstrap themes.
 
