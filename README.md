@@ -55,4 +55,4 @@
 - {memmoise} ([site](https://memoise.r-lib.org) / [GitHub](https://github.com/r-lib/memoise)): Cache.
 - {slider} ([site](https://davisvaughan.github.io/slider/) / [GitHub](https://github.com/DavisVaughan/slider)): Sliding window {purrr}.
 - {clock} ([site](https://clock.r-lib.org/) / [GitHub](https://github.com/r-lib/clock)): The future of {lubridate}?
-
+- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids?
