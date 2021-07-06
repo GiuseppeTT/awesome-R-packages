@@ -8,6 +8,7 @@
 ### Modeling
 - {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The ~~future~~ base of modern R machine learning. Check its subpackages.
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
+- {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The base of bayes R **?**
 
 ### Tables
 - {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The ~~future~~ {ggplot2} of tables.
@@ -54,5 +55,5 @@
 - {fs} ([site](https://fs.r-lib.org) / [GitHub](https://github.com/r-lib/fs)): File system.
 - {memmoise} ([site](https://memoise.r-lib.org) / [GitHub](https://github.com/r-lib/memoise)): Cache.
 - {slider} ([site](https://davisvaughan.github.io/slider/) / [GitHub](https://github.com/DavisVaughan/slider)): Sliding window {purrr}.
-- {clock} ([site](https://clock.r-lib.org/) / [GitHub](https://github.com/r-lib/clock)): The future of {lubridate}?
-- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids?
+- {clock} ([site](https://clock.r-lib.org/) / [GitHub](https://github.com/r-lib/clock)): The future of {lubridate} **?**
+- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids **?**
