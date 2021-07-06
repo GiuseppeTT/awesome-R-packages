@@ -45,6 +45,7 @@
 ### DevOps
 - {devtools} ([site](https://devtools.r-lib.org) / [GitHub](https://github.com/r-lib/devtools)): The base of modern R package/project development. Check its subpackages.
 - {usethis} ([site](https://usethis.r-lib.org) / [GitHub](https://github.com/r-lib/usethis)): Packages/projects set up.
+- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids **?**
 - {rsconnect} ([site](https://rstudio.github.io/rsconnect/) / [GitHub](https://github.com/rstudio/rsconnect)): Deploy.
 
 ### Reproducibility
@@ -57,4 +58,3 @@
 - {memmoise} ([site](https://memoise.r-lib.org) / [GitHub](https://github.com/r-lib/memoise)): Cache.
 - {slider} ([site](https://davisvaughan.github.io/slider/) / [GitHub](https://github.com/DavisVaughan/slider)): Sliding window {purrr}.
 - {clock} ([site](https://clock.r-lib.org/) / [GitHub](https://github.com/r-lib/clock)): The future of {lubridate} **?**
-- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids **?**
