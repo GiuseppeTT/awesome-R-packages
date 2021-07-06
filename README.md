@@ -39,7 +39,7 @@
 ### Web
 - {jsonlite} ([site](https://arxiv.org/abs/1403.2805) / [GitHub](https://github.com/jeroen/jsonlite)): JSON.
 - {httr} ([site](https://httr.r-lib.org) / [GitHub](https://github.com/r-lib/httr)): Web API requests.
-- {httr2} ([site]() / [GitHub]()): The future of {httr} **?**
+- {httr2} ([site](https://httr2.r-lib.org/) / [GitHub](https://github.com/r-lib/httr2)): The future of {httr} **?**
 - {plumber} ([site](https://www.rplumber.io) / [GitHub](https://github.com/rstudio/plumber)): Web APIs.
 - {rvest} ([site](https://rvest.tidyverse.org) / [GitHub](https://github.com/tidyverse/rvest)): Web scrapping.
 
