@@ -6,13 +6,13 @@
 - {tidyverse} ([site](https://www.tidyverse.org) / [GitHub](https://github.com/tidyverse)): The base of modern R. Check its subpackages.
 
 ### Modeling
-- {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The ~~future~~ base of modern R machine learning. Check its subpackages.
+- {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The base of modern R machine learning. Check its subpackages.
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
 - {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The backbone of bayes R. R interface to Stan **?**
 - {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Formula interface to Stan **?**
 
 ### Tables
-- {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The ~~future~~ {ggplot2} of tables.
+- {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The {ggplot2} of tables.
 
 ### Plots
 - {ggplot2} ([site](https://ggplot2.tidyverse.org) / [GitHub](https://github.com/tidyverse/ggplot2)): The base of modern R plots.
@@ -39,7 +39,7 @@
 ### Web
 - {jsonlite} ([site](https://arxiv.org/abs/1403.2805) / [GitHub](https://github.com/jeroen/jsonlite)): JSON.
 - {httr} ([site](https://httr.r-lib.org) / [GitHub](https://github.com/r-lib/httr)): Web API requests.
-- {httr2} ([site]() / [GitHub]()): The ~~future~~ of {httr} **?**
+- {httr2} ([site]() / [GitHub]()): The future of {httr} **?**
 - {plumber} ([site](https://www.rplumber.io) / [GitHub](https://github.com/rstudio/plumber)): Web APIs.
 - {rvest} ([site](https://rvest.tidyverse.org) / [GitHub](https://github.com/tidyverse/rvest)): Web scrapping.
 
