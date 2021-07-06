@@ -8,7 +8,8 @@
 ### Modeling
 - {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The ~~future~~ base of modern R machine learning. Check its subpackages.
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
-- {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The base of bayes R **?**
+- {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The backbone of bayes R. R interface to Stan **?**
+- {brm} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Formula interface to Stan **?**
 
 ### Tables
 - {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The ~~future~~ {ggplot2} of tables.
