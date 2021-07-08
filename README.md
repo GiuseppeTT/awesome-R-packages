@@ -2,11 +2,18 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+## Warning
+
+- I did not include the subpackages of [{tidyverse}](https://www.tidyverse.org/packages/), [{tidymodels}](https://www.tidymodels.org/packages/) and [{devtools}](https://devtools.r-lib.org/#conscious-uncoupling) but I encourge to check them.
+- The "**?**" in some package descriptions indicates that the packge was recently added to this list and I am not too sure about it.
+
+## Packages
+
 ### Must absolutely have
-- {tidyverse} ([site](https://www.tidyverse.org) / [GitHub](https://github.com/tidyverse)): The base of modern R. Check its subpackages.
+- {tidyverse} ([site](https://www.tidyverse.org) / [GitHub](https://github.com/tidyverse)): The base of modern R. Check its [subpackages](https://www.tidyverse.org/packages/).
 
 ### Modeling
-- {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The base of modern R machine learning. Check its subpackages.
+- {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The base of modern R machine learning. Check its [subpackages](https://www.tidymodels.org/packages/).
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
 - {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The backbone of bayes R. R interface to Stan **?**
 - {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Formula interface to Stan **?**
@@ -37,15 +44,11 @@
 - {bslib} ([site](https://rstudio.github.io/bslib/) / [GitHub](https://github.com/rstudio/shiny)): Bootstrap themes.
 
 ### Web
-- {jsonlite} ([site](https://arxiv.org/abs/1403.2805) / [GitHub](https://github.com/jeroen/jsonlite)): JSON.
-- {httr} ([site](https://httr.r-lib.org) / [GitHub](https://github.com/r-lib/httr)): Web API requests.
 - {httr2} ([site](https://httr2.r-lib.org/) / [GitHub](https://github.com/r-lib/httr2)): The future of {httr} **?**
 - {plumber} ([site](https://www.rplumber.io) / [GitHub](https://github.com/rstudio/plumber)): Web APIs.
-- {rvest} ([site](https://rvest.tidyverse.org) / [GitHub](https://github.com/tidyverse/rvest)): Web scrapping.
 
 ### DevOps
-- {devtools} ([site](https://devtools.r-lib.org) / [GitHub](https://github.com/r-lib/devtools)): The base of modern R package/project development. Check its subpackages.
-- {usethis} ([site](https://usethis.r-lib.org) / [GitHub](https://github.com/r-lib/usethis)): Packages/projects set up.
+- {devtools} ([site](https://devtools.r-lib.org) / [GitHub](https://github.com/r-lib/devtools)): The base of modern R package/project development. Check its [subpackages](https://devtools.r-lib.org/#conscious-uncoupling).
 - {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids **?**
 - {rsconnect} ([site](https://rstudio.github.io/rsconnect/) / [GitHub](https://github.com/rstudio/rsconnect)): Deploy.
 
