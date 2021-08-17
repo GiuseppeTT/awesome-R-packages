@@ -18,8 +18,10 @@
 - {tidytext} ([site](https://github.com/juliasilge/tidytext) / [GitHub](https://juliasilge.github.io/tidytext/)): Text analysis.
 
 ### Bayesian statistics
-- {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The backbone of bayes R. R interface to Stan **?**
-- {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Formula interface to Stan **?**
+- {tidybayes} ([site](https://mjskay.github.io/tidybayes/) / [GitHub](https://github.com/mjskay/tidybayes/)): The base of R bayesian statistical analysis. Only analysis, the computation is made by Stan.
+- {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): R interface to Stan.
+- {cmdstanr} ([site](https://mc-stan.org/cmdstanr/) / [GitHub](https://github.com/stan-dev/cmdstanr)): Cleaner, faster and more up-to-date R interface to Stan.
+- {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Bayesian regression models using Stan.
 
 ### Tables
 - {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The {ggplot2} of tables.
