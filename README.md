@@ -12,10 +12,12 @@
 ### Must absolutely have
 - {tidyverse} ([site](https://www.tidyverse.org) / [GitHub](https://github.com/tidyverse)): The base of modern R. Check its [subpackages](https://www.tidyverse.org/packages/).
 
-### Modeling
+### Machine learning
 - {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The base of modern R machine learning. Check its [subpackages](https://www.tidymodels.org/packages/).
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
 - {tidytext} ([site](https://github.com/juliasilge/tidytext) / [GitHub](https://juliasilge.github.io/tidytext/)): Text analysis.
+
+### Bayesian statistics
 - {rstan} ([site](https://mc-stan.org/rstan/index.html) / [GitHub](https://github.com/stan-dev/rstan)): The backbone of bayes R. R interface to Stan **?**
 - {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Formula interface to Stan **?**
 
@@ -29,6 +31,7 @@
 
 ### Literate programming
 - {rmarkdown} ([site](https://rmarkdown.rstudio.com) / [GitHub](https://github.com/rstudio/rmarkdown)): The base of modern R literate programming.
+- {epoxy} (no site / [Github](https://github.com/gadenbuie/epoxy)): Add "glue rmarkdown chunks" that allow to easily produce text with code.
 - {tinytex} ([site](https://yihui.org/tinytex/) / [GitHub](https://github.com/yihui/tinytex)): LaTeX.
 - {bookdown} ([site](https://bookdown.org) / [GitHub](https://github.com/rstudio/bookdown)): Books.
 - {thesisdown} ([site](https://ismayc.github.io/thesisdown/) / [GitHub](https://github.com/ismayc/thesisdown)): Thesis.
@@ -55,8 +58,8 @@
 
 ### Reproducibility
 - {targets} ([site](https://docs.ropensci.org/targets/) / [GitHub](https://github.com/ropensci/targets)): Analysis workflows/pipelines.
-- {here} ([site](https://here.r-lib.org) / [GitHub](https://github.com/r-lib/here)): Path relative to project folder.
 - {renv} ([site](https://rstudio.github.io/renv) / [GitHub](https://github.com/rstudio/renv)): Dependency management.
+- {here} ([site](https://here.r-lib.org) / [GitHub](https://github.com/r-lib/here)): Path relative to project folder.
 
 ### Others
 - {fs} ([site](https://fs.r-lib.org) / [GitHub](https://github.com/r-lib/fs)): File system.
