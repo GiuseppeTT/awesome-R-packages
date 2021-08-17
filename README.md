@@ -53,7 +53,7 @@
 
 ### DevOps
 - {devtools} ([site](https://devtools.r-lib.org) / [GitHub](https://github.com/r-lib/devtools)): The base of modern R package/project development. Check its [subpackages](https://devtools.r-lib.org/#conscious-uncoupling).
-- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): {remotes} on steroids **?**
+- {pak} ([site](https://pak.r-lib.org/) / [GitHub](https://github.com/r-lib/pak)): Package installation. Basicaly, {remotes} on steroids.
 - {rsconnect} ([site](https://rstudio.github.io/rsconnect/) / [GitHub](https://github.com/rstudio/rsconnect)): Deploy.
 
 ### Reproducibility
