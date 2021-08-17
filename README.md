@@ -49,8 +49,9 @@
 - {bslib} ([site](https://rstudio.github.io/bslib/) / [GitHub](https://github.com/rstudio/shiny)): Bootstrap themes.
 
 ### Web
-- {httr2} ([site](https://httr2.r-lib.org/) / [GitHub](https://github.com/r-lib/httr2)): The future of {httr} **?**
+- {httr2} ([site](https://httr2.r-lib.org/) / [GitHub](https://github.com/r-lib/httr2)): HTTP requests.
 - {plumber} ([site](https://www.rplumber.io) / [GitHub](https://github.com/rstudio/plumber)): Web APIs.
+- {rvest} ([site](https://rvest.tidyverse.org/index.html) / [GitHub](https://github.com/tidyverse/rvest)): Web scraping
 
 ### DevOps
 - {devtools} ([site](https://devtools.r-lib.org) / [GitHub](https://github.com/r-lib/devtools)): The base of modern R package/project development. Check its [subpackages](https://devtools.r-lib.org/#conscious-uncoupling).
