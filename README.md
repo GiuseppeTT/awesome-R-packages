@@ -4,7 +4,7 @@
 
 ## Warning
 
-- I did not include the subpackages of [{tidyverse}](https://www.tidyverse.org/packages/), [{tidymodels}](https://www.tidymodels.org/packages/) and [{devtools}](https://devtools.r-lib.org/#conscious-uncoupling) but I encourge to check them.
+- I did not include all of the subpackages of [{tidyverse}](https://www.tidyverse.org/packages/), [{tidymodels}](https://www.tidymodels.org/packages/) and [{devtools}](https://devtools.r-lib.org/#conscious-uncoupling) but I encourge to check them.
 - The "**?**" in some package descriptions indicates that the packge was recently added to this list and I am not too sure about it.
 
 ## Packages
