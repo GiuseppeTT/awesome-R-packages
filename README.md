@@ -19,7 +19,7 @@
 
 ### Bayesian statistics
 - {tidybayes} ([site](https://mjskay.github.io/tidybayes/) / [GitHub](https://github.com/mjskay/tidybayes/)): The base of modern R bayesian statistical analysis. Only analysis, the computation is made by Stan.
-- {cmdstanr} ([site](https://mc-stan.org/cmdstanr/) / [GitHub](https://github.com/stan-dev/cmdstanr)): The base of modern R bayesian statistics. R interface to Stan.
+- {cmdstanr} ([site](https://mc-stan.org/cmdstanr/) / [GitHub](https://github.com/stan-dev/cmdstanr)): The base of modern R bayesian statistics. R interface for Stan.
 - {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Bayesian regression models.
 
 ### Tables
