@@ -59,7 +59,7 @@
 - {rsconnect} ([site](https://rstudio.github.io/rsconnect/) / [GitHub](https://github.com/rstudio/rsconnect)): Deploy.
 
 ### Reproducibility
-- {targets} ([site](https://docs.ropensci.org/targets/) / [GitHub](https://github.com/ropensci/targets)): Analysis workflows/pipelines.
+- {targets} ([site](https://docs.ropensci.org/targets/) / [GitHub](https://github.com/ropensci/targets)): Analysis workflows.
 - {renv} ([site](https://rstudio.github.io/renv) / [GitHub](https://github.com/rstudio/renv)): Dependency management.
 - {here} ([site](https://here.r-lib.org) / [GitHub](https://github.com/r-lib/here)): Path relative to project folder.
 
