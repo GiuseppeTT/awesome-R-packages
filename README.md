@@ -66,6 +66,8 @@
 - {targets} ([site](https://docs.ropensci.org/targets/) / [GitHub](https://github.com/ropensci/targets)): Analysis workflows.
 - {renv} ([site](https://rstudio.github.io/renv) / [GitHub](https://github.com/rstudio/renv)): Dependency management.
 - {here} ([site](https://here.r-lib.org) / [GitHub](https://github.com/r-lib/here)): Path relative to project folder.
+- {lintr} ([site](https://lintr.r-lib.org/) / [GitHub](https://github.com/r-lib/lintr)): Linter. Great for code consistency.
+- {formatR} ([site](https://yihui.org/formatr/) / [GitHub](https://github.com/yihui/formatR)): Formater. Great for lazy code consistency.
 
 ### Others
 - {fs} ([site](https://fs.r-lib.org) / [GitHub](https://github.com/r-lib/fs)): File system.
