@@ -31,6 +31,9 @@
 - {gganimate} ([site](https://gganimate.com) / [GitHub](https://github.com/thomasp85/gganimate)): Animations.
 
 ### Literate programming
+
+> **Note:** Consider using [quarto](https://quarto.org/) instead of R for literate programming
+
 - {rmarkdown} ([site](https://rmarkdown.rstudio.com) / [GitHub](https://github.com/rstudio/rmarkdown)): The base of modern R literate programming.
 - {epoxy} (no site / [Github](https://github.com/gadenbuie/epoxy)): Add "glue rmarkdown chunks" that allow to easily produce text with code.
 - {tinytex} ([site](https://yihui.org/tinytex/) / [GitHub](https://github.com/yihui/tinytex)): LaTeX.
