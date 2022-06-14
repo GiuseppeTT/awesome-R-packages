@@ -16,6 +16,7 @@
 - {tidymodels} ([site](https://www.tidymodels.org/) / [GitHub](https://github.com/tidymodels)): The base of modern R machine learning. Check its [subpackages](https://www.tidymodels.org/packages/).
 - {dalex} ([site](https://modeloriented.github.io/DALEX/) / [GitHub](https://github.com/ModelOriented/DALEX)): Model interpretation.
 - {tidytext} ([site](https://github.com/juliasilge/tidytext) / [GitHub](https://juliasilge.github.io/tidytext/)): Text analysis.
+- {vetiver} ([site](https://rstudio.github.io/vetiver-r/) / [GitHub](https://github.com/rstudio/vetiver-r)): MLOps. Version, share, deploy, and monitor models. It also has a [python interface](https://rstudio.github.io/vetiver-python/).
 
 ### Bayesian statistics
 - {tidybayes} ([site](https://mjskay.github.io/tidybayes/) / [GitHub](https://github.com/mjskay/tidybayes/)): The base of modern R bayesian statistical analysis. Only analysis, the computation is made by Stan.
