@@ -24,7 +24,7 @@
 - {brms} ([site](https://paul-buerkner.github.io/brms/) / [GitHub](https://github.com/paul-buerkner/brms)): Bayesian regression models.
 
 ### Tables
-- {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The {ggplot2} of tables.
+- {gt} ([site](https://gt.rstudio.com) / [GitHub](https://github.com/rstudio/gt)): The {ggplot2} of tables. Be sure to also check [{gtExtras}](https://github.com/jthomasmock/gtExtras/).
 
 ### Plots
 - {ggplot2} ([site](https://ggplot2.tidyverse.org) / [GitHub](https://github.com/tidyverse/ggplot2)): The base of modern R plots.
